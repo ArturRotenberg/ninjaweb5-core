@@ -55,7 +55,6 @@ Browser-level enforcement
 
 📫 Contact
 LinkedIn: https://linkedin.com/in/artur-rotenberg-b86aa02ba
-Telegram: https://t.me/artur4ikro
 ⚡ Vision
 
 Control what users see — at the moment of delivery.
